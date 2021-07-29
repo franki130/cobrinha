@@ -1,0 +1,10 @@
+body{
+   height: 95vh;
+   width: 95;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   /* deixa um elemento abaixo do outro em columnas*/
+   flex-direction: column;
+   color: rgb(6, 70, 6);
+}
